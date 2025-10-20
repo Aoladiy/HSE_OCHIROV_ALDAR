@@ -1,1 +1,4 @@
-first commit to be reverted
+edited file in master branch
+edited file in mentorSeminar branch
+
+file after resolving conflict
