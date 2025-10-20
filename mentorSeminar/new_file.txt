@@ -2,5 +2,3 @@ edited file in master branch
 edited file in mentorSeminar branch
 
 file after resolving conflict
-
-madebyhidden(Захаров Денис): изменения для форка
